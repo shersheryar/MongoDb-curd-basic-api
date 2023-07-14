@@ -1,0 +1,8 @@
+
+get:get data from database 
+post:save data in database
+put:update data in database
+delete:delete data from database
+
+
+
